@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quizsandbox2</string>
+    <string name="nip">NIP</string>
+    <string name="sandi">Password</string>
+    <string name="faq">Lihat FAQ</string>
+    <string name="isinip">Masukkan NIP</string>
+    <string name="isipas">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="noakses">Belum bisa akses?</string>
+    <string name="csikhwan">Hubungi CS Ikhwan</string>
+    <string name="nipkosong">NIP harus diisi</string>
+    <string name="passkosong">Password harus diisi</string>
+    <string name="kosong2">NIP dan Password harus diisi</string>
+    <string name="isi2">Menuju Halaman Beranda</string>
+    <string name="csakhwat">Hubungi CS Akhwat</string>
+    <string name="hubcs1">Menghubungi CS Ikhwan</string>
+    <string name="gofaq">Menuju Halaman FAQ</string>
+    <string name="hubcs2">Menghubungi CS Akhwat</string>
+</resources>
